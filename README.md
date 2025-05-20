@@ -1,2 +1,2 @@
 # 1337 pool preparation me
-contains comleted exercices and projects during my preparation progran for the pool test at 1337
+contains completed exercices and projects during my preparation program for the pool test at 1337
