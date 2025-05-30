@@ -38,4 +38,5 @@ int main() {
     else {
             printf("even\n");
 	}
+	return 0;
 }  
